@@ -1,7 +1,7 @@
 # 九宫格 小游戏
 
 #### 介绍
-javafx界面，非模块化的NetBeans项目。
+javafx界面，模块化的NetBeans项目。
 欢迎有兴趣的各位提出宝贵意见。  
 
 
