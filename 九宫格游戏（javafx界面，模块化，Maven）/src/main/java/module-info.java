@@ -6,7 +6,7 @@
 
 module 游戏 {
     requires javafx.controls;
-    requires javafx.fxml;  
+    requires javafx.fxml;
     
     //src.界面和src都需要open
     opens 游戏.界面 to javafx.fxml; 

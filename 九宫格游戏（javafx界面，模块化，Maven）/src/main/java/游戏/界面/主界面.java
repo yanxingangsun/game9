@@ -20,7 +20,7 @@ public class 主界面 extends Application{
 
     @Override
     public void start(Stage stage) throws Exception {
-        FXMLLoader 加载器=new FXMLLoader();
+        FXMLLoader 加载器=new FXMLLoader(); 
         //l.setCharset(java.nio.charset.Charset.forName("UTF-8"));//不支持gb2312,但支持gbk
         System.out.println(加载器.getCharset());
         加载器.setLocation(getClass().getResource("游戏界面.fxml"));
